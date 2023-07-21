@@ -5,4 +5,4 @@ sayı=random.randint(3,6)
 if sayı==6:
     print("kazandın")
 else:
-   print("daha sonra sen de kazanırsın.  sayın:", + sayı)
+   print("daha sonra sen de kazanırsın.  sayın:", sayı)
